@@ -43,7 +43,7 @@ Clique no link abaixo para acessar o site hospedado no GitHub Pages:
 
 ## 🎮 Sobre a API Pokémon
 
-A API usada neste projeto oferece informações sobre Pokémon, incluindo nome, habilidades, tipos e imagens.
+A API usada neste projeto oferece informações sobre Pokémon, incluindo nome, habilidades e imagens.
 
 ## 📜 Licença
 
