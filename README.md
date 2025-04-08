@@ -2,30 +2,27 @@
 
 Este projeto é uma aplicação construída com **React.js** que permite ao usuário pesquisar informações sobre Pokémon utilizando a **PokeAPI**. A aplicação exibe detalhes como nome, ID, habilidades e uma imagem animada do Pokémon pesquisado. A comunicação com a API agora é feita utilizando **Axios**.
 
-### Acesse o site
+### ⚡  Acesse o site
 Clique no link abaixo para acessar o site hospedado no GitHub Pages:
 
 [Visite o PokeAPI Site]( https://danielly2007.github.io/PokeAPI/)
 
 
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - **Busca de Pokémon:** Permite ao usuário digitar o nome de um Pokémon e obter informações.
 - **Exibição de Detalhes:** Exibe o nome, ID, habilidades e imagem animada do Pokémon.
 - **Tratamento de Erros:** Caso o Pokémon não seja encontrado ou ocorra um erro na requisição, o sistema exibe uma mensagem de erro.
 
-## Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 - **React.js**: Framework JavaScript utilizado para criar a interface.
 - **Axios**: Biblioteca para fazer requisições HTTP. Substitui o `fetch` e simplifica o código de requisição.
 - **PokeAPI**: API pública utilizada para buscar os dados dos Pokémons.
 - **CSS**: Para a estilização básica da aplicação.
 
-
-![Pokémon Animation](https://media.giphy.com/media/26xB6d23bGhnr8R7y/giphy.gif)
-
-## Como usar
+## 🧑‍💻 Como usar
 
 1. Clone este repositório:
     ```bash
@@ -44,10 +41,10 @@ Clique no link abaixo para acessar o site hospedado no GitHub Pages:
 
 4. Abra o navegador e vá para `http://localhost:3000`.
 
-## Sobre a API Pokémon
+## 🎮 Sobre a API Pokémon
 
 A API usada neste projeto oferece informações sobre Pokémon, incluindo nome, habilidades, tipos e imagens.
 
-## Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
