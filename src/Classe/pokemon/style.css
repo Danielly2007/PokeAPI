@@ -1,0 +1,79 @@
+body {
+    background-color: #FF0000;
+    padding: 100px;
+    
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+}
+
+
+.pokefoto {
+    width: 600px;
+    
+}
+
+.section-button {
+    display: flex;
+    margin-top: 20px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 0px 20px;
+    border: 2px solid black;
+    outline: none;
+    
+}
+
+button {
+    border-radius: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+.card {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    width: 500px;
+    height: 250px;
+    align-items: center;
+    transition: transform 0.3s ease-in-out;
+    
+}
+
+.cardPrincipal{
+    background: linear-gradient(0deg, rgba(167,0,0,1) 26%, rgba(255,144,0,1) 71%, rgba(250,255,0,1) 96%);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 180px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    padding: 15px;
+}
+
+.descricao {
+    font-weight: bold;
+}
+
+.card .cardPrincipa p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
